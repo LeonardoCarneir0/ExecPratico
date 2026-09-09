@@ -4,7 +4,7 @@ import factory.PlaystationPortableStore;
 import factory.PlaystationStore;
 import factory.ProductStore;
 
-public class Client {
+public class Client1 {
 
     public static void main(String[] args) {
 

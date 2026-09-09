@@ -2,7 +2,7 @@ import model.Personagem;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Client {
+public class Client2 {
     public static void main(String[] args) throws CloneNotSupportedException {
         Personagem guerreiro = new Personagem();
         guerreiro.setNome("Guerreiro");
